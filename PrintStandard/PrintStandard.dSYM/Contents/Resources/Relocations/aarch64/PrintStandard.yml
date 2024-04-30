@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kevin/Documents/C++ Review/PrintStandard/PrintStandard'
+relocations:
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: _stdName, symObjAddr: 0x4E8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x2F74, offset: 0x2F74, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x84, symBinAddr: 0x1000039E4, symSize: 0x164 }
+  - { offsetInCU: 0x505B, offset: 0x505B, size: 0x8, addend: 0x0, symName: __ZNSt3__116__pad_and_outputB8ue170006IcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_, symObjAddr: 0x1E8, symBinAddr: 0x100003B48, symSize: 0x194 }
+  - { offsetInCU: 0x5912, offset: 0x5912, size: 0x8, addend: 0x0, symName: __ZNSt3__120__throw_length_errorB8ue170006EPKc, symObjAddr: 0x39C, symBinAddr: 0x100003CFC, symSize: 0x50 }
+  - { offsetInCU: 0x82BE, offset: 0x82BE, size: 0x8, addend: 0x0, symName: __Z14getCPPStandardv, symObjAddr: 0x0, symBinAddr: 0x100003960, symSize: 0xC }
+  - { offsetInCU: 0x82EF, offset: 0x82EF, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xC, symBinAddr: 0x10000396C, symSize: 0x78 }
+  - { offsetInCU: 0x88F8, offset: 0x88F8, size: 0x8, addend: 0x0, symName: __ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE20__throw_length_errorB8ue170006Ev, symObjAddr: 0x388, symBinAddr: 0x100003CE8, symSize: 0x14 }
+  - { offsetInCU: 0x8922, offset: 0x8922, size: 0x8, addend: 0x0, symName: __ZNSt3__120__throw_length_errorB8ue170006EPKc, symObjAddr: 0x39C, symBinAddr: 0x100003CFC, symSize: 0x50 }
+  - { offsetInCU: 0x892D, offset: 0x892D, size: 0x8, addend: 0x0, symName: __ZNSt12length_errorC1B8ue170006EPKc, symObjAddr: 0x3EC, symBinAddr: 0x100003D4C, symSize: 0x24 }
+...
